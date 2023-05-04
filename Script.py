@@ -36,8 +36,9 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 Special Thanks to EvaMaria Devs & Cloners for the codes 
 <b>DEV:</b>
-- <a href=https://t.me/nyagwenchar>『DarkLORD』</a>
-- Source - https://github.com/Nyagwenchar/PiroAutoFilterBot""" #please don't change repo link give credit :)
+<a href=https://t.me/nyagwenchar>『DarkLORD』</a>
+<b>Source:</b>
+<a href='https://github.com/Nyagwenchar/PiroAutoFilterBot'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
