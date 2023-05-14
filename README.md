@@ -1,8 +1,8 @@
 <p align="center">
   <img src="assets/logo.jpg">
 </p>
-<h1 align="center">
-  <b>AutoFilterBot</b>
+<h1 align="left">
+  <b>KixTVHD AutoFilter Bot</b>
 </h1>
 
 ### Features
