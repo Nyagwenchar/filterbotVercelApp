@@ -4,7 +4,7 @@ class script(object):
 <i>𝖨𝗍𝗌 𝖤𝖺𝗌𝗒 𝖳𝗈 𝖴𝗌𝖾 𝖬𝖾; 𝖩𝗎𝗌𝗍 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇, 
 𝖳𝗁𝖺𝗍𝗌 𝖠𝗅𝗅, 𝗂 𝗐𝗂𝗅𝗅 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖬𝗈𝗏𝗂𝖾𝗌 𝖳𝗁𝖾𝗋𝖾...🤓🤪</i>
 ⚠️ 𝖬𝗈𝗋𝖾 𝖧𝖾𝗅𝗉 𝖧𝗂𝗍 /help
-<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @nyagwenchar</b>"""
+<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 by 𝕂𝕚𝕩𝕋𝕍 ℍ𝔻</b>"""
 
     HELP_TXT = """🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓
 ○  𝗂𝗍'𝗌 𝖭𝗈𝗍 𝖢𝗈𝗆𝗉𝗅𝗂𝖼𝖺𝗍𝖾𝖽...🤓
@@ -21,7 +21,7 @@ class script(object):
  /broadcast - Broadcast (𝖮𝗐𝗇𝖾𝗋 𝖮𝗇𝗅𝗒)
 ○ <u>𝖭𝗈𝗍𝗂𝖼𝖾</u> 📙:-
 𝖣𝗈𝗇𝗍 𝖲𝗉𝖺𝗆 𝖬𝖾...🤒
-😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 Nyagwenchar.t.me"""
+😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 𝕂𝕚𝕩𝕋𝕍 ℍ𝔻"""
 
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/nyagwenchar'>DarkLORD</a>
@@ -31,14 +31,14 @@ class script(object):
 ○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https
 ://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
 ○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : v1.0.1 [BeTa]
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/GhostierMAS'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>"""
+○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/kixtvhd'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 Special Thanks to EvaMaria Devs & Cloners for the codes 
 <b>DEV:</b>
 <a href=https://t.me/nyagwenchar>『DarkLORD』</a>
 <b>Source:</b>
-<a href='https://github.com/Nyagwenchar/PiroAutoFilterBot'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>"""
+<a href='https://github.com/Nyagwenchar/KixTVHDFilterBot'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -120,7 +120,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 𝖳𝗈𝗍𝖺𝗅 𝖬𝖾𝗆𝖻𝖾𝗋𝗌: <code>{}</code>
 𝖳𝗈𝗍𝖺𝗅 𝖢𝗁𝖺𝗍𝗌: <code>{}</code>
 𝖴𝗌𝖾𝖽 𝖲𝗍𝗈𝗋𝖺𝗀𝖾: <code>{}</code>
-<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @ghostiermas</b>"""
+<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 𝕂𝕚𝕩𝕋𝕍 ℍ𝔻</b>"""
 
     LOG_TEXT_G = """#NewGroup
 𝖦𝗋𝗈𝗎𝗉 = {}(<code>{}</code>)
@@ -143,11 +143,11 @@ Request Again"""
 𝖨 𝖼𝗈𝗎𝗅𝖽𝗇'𝗍 𝖿𝗂𝗇𝖽 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝗍𝗁𝖺𝗍
 𝖣𝗂𝖽 𝗒𝗈𝗎 𝗆𝖾𝖺𝗇 𝖺𝗇𝗒 𝗈𝗇𝖾 𝗈𝖿 𝗍𝗁𝖾𝗌𝖾?</i></b>"""
 
-    I_CUDNT = """❌ <b>𝖨 𝖼𝗈𝗎𝗅𝖽𝗇'𝗍 𝖿𝗂𝗇𝖽 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝗍𝗁𝖺𝗍</b>\n\n‼ <b><i>𝖱𝖾𝗉𝗈𝗋𝗍 𝗍𝗈 𝖺𝖽𝗆𝗂𝗇 ▶ @ghostiermaschat</i></b>"""
+    I_CUDNT = """❌ <b>𝖨 𝖼𝗈𝗎𝗅𝖽𝗇'𝗍 𝖿𝗂𝗇𝖽 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝗍𝗁𝖺𝗍</b>\n\n‼ <b><i>𝖱𝖾𝗉𝗈𝗋𝗍 𝗍𝗈 𝖺𝖽𝗆𝗂𝗇 ▶ @kixtvhdchat</i></b>"""
 
-    I_CUD_NT = """❌ <b>𝖨 𝖼𝗈𝗎𝗅𝖽𝗇'𝗍 𝖿𝗂𝗇𝖽 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝗍𝗁𝖺𝗍</b>\n\n‼ <b><i>𝖱𝖾𝗉𝗈𝗋𝗍 𝗍𝗈 𝖺𝖽𝗆𝗂𝗇 ▶ @ghostiermaschat</i></b>"""
+    I_CUD_NT = """❌ <b>𝖨 𝖼𝗈𝗎𝗅𝖽𝗇'𝗍 𝖿𝗂𝗇𝖽 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝗍𝗁𝖺𝗍</b>\n\n‼ <b><i>𝖱𝖾𝗉𝗈𝗋𝗍 𝗍𝗈 𝖺𝖽𝗆𝗂𝗇 ▶ @kixtvhdchat</i></b>"""
 
-    MVE_NT_FND = """❌ <b>𝖨 𝖼𝗈𝗎𝗅𝖽𝗇'𝗍 𝖿𝗂𝗇𝖽 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝗍𝗁𝖺𝗍</b>\n\n‼ <b><i>𝖱𝖾𝗉𝗈𝗋𝗍 𝗍𝗈 𝖺𝖽𝗆𝗂𝗇 ▶ @ghostiermaschat</i></b>"""
+    MVE_NT_FND = """❌ <b>𝖨 𝖼𝗈𝗎𝗅𝖽𝗇'𝗍 𝖿𝗂𝗇𝖽 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝗍𝗁𝖺𝗍</b>\n\n‼ <b><i>𝖱𝖾𝗉𝗈𝗋𝗍 𝗍𝗈 𝖺𝖽𝗆𝗂𝗇 ▶ @kixtvhdchat</i></b>"""
 
     TOP_ALRT_MSG = """𝖢𝗁𝖾𝖼𝗄𝗂𝗇𝗀 𝖿𝗈𝗋 𝗊𝗎𝖾𝗋𝗒 𝗂𝗇 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾..."""
 
@@ -159,7 +159,6 @@ Request Again"""
 <u>𝗥𝗲𝗾𝘂𝗲𝘀𝘁𝘀 𝗙𝗼𝗿𝗺𝗮𝘁𝘀</u>
 • 𝖲𝗈𝗅𝗈 2017
 • 𝖣𝗁𝗈𝗈𝗆 3 𝖧𝗂𝗇𝖽𝗂
-• 𝖪𝗎𝗋𝗎𝗉 𝖪𝖺𝗇
 • 𝖣𝖺𝗋𝗄 𝗌01
 • 𝖲𝗁𝖾 𝖧𝗎𝗅𝗄 720𝗉
 • 𝖥𝗋𝗂𝖾𝗇𝖽𝗌 𝗌03 1080𝗉
@@ -167,7 +166,7 @@ Request Again"""
 
     OWNER_INFO = """
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/nyagwenchar'>DarkLORD</a>
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/ghostiermas'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>
+○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/kixtvhd'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>
 """
 
     NORSLTS = """
@@ -179,14 +178,14 @@ Message <b>: {}</b>"""
     CAPTION = """
 📂 <em>File Name</em>: <code>DarkLORD|{file_name}</code> 
 🖇 <em>File Size</em>: <code>{file_size}</code> 
-❤️‍🔥 </i>Join</i> [GhostierMAS](https://t.me/ghostiermas)  
-🖥 <i>Requests</i> - ||@ghostiermaschat|| """
+❤️‍🔥 </i>Join</i> [𝕂𝕚𝕩𝕋𝕍 ℍ𝔻](https://t.me/kixtvhd)  
+🖥 <i>Requests</i> - ||@kixtvhdchat|| """
 
     IMDB_TEMPLATE_TXT = """
 🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> 
 🔮 𝖸𝖾𝖺𝗋: {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  
 🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} 
-🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [[DarkLORD]](t.me/nyagwenchar)"""
+🎊 Provided 𝖡𝗒 [𝕂𝕚𝕩𝕋𝕍 ℍ𝔻](t.me/kixtvhd)"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
