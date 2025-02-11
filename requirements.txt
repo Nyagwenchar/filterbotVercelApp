@@ -10,3 +10,5 @@ git+https://github.com/ritheshrkrm/cinemagoer
 datetime
 pytz
 aiohttp
+python-telegram-bot
+Flask
