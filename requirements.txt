@@ -12,4 +12,3 @@ pytz
 aiohttp
 python-telegram-bot
 Flask
-setuptools
