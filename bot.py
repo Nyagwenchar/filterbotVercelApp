@@ -101,6 +101,9 @@ class Bot(Client):
                 yield message
                 current += 1
 
+if __name__ == "__main__":
+    import asyncio
 
-app = Bot()
-app.run()
+    app = Bot()
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(app.start())
